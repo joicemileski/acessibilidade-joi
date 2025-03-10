@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #f0c6e5;
 }
 
 
@@ -129,7 +129,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #ffb1fb;
+    background-color: #b428ad;
     border: none;
     font-weight: bold;
 }
